@@ -1,0 +1,10 @@
+print("Enter a colour: ")
+colour=gets.chomp()
+print("Enter a plural noun: ")
+pn=gets.chomp()
+print("Enter a name: ")
+name=gets.chomp()
+
+puts("\nRoses are "+colour)
+puts(pn+" are Blue")
+puts("I Love "+name)
